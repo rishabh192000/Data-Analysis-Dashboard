@@ -22,10 +22,10 @@
 Dashboard Interaction  <a href = "https://github.com/rishabh192000/Data-Analysis-Dashboard/blob/main/ola_dashboard.pbit">Dasboard</a>
 
 ## Dashboard Screenshots
+![Screenshot 2025-04-21 232922](https://github.com/user-attachments/assets/523df565-c3d3-4d41-bfc7-2fc226829123)
+![Screenshot 2025-04-21 232937](https://github.com/user-attachments/assets/86b88125-6166-4893-8ba3-be5c248a5d37)
+![Screenshot 2025-04-21 232858](https://github.com/user-attachments/assets/c212e181-c473-41ec-934a-493dbef5e0be)
+![Screenshot 2025-04-21 232958](https://github.com/user-attachments/assets/17d1a43b-b4e1-4de2-a037-f5b5aaf588a8)
+![Screenshot 2025-04-21 233012](https://github.com/user-attachments/assets/ae986c2b-130e-4baa-bf7e-35765521b866)
 
-![Screenshot 2025-04-21 232922](https://github.com/user-attachments/assets/5d2409bc-6d9a-42ea-a9d2-7eff4ced75d3)
-![Screenshot 2025-04-21 232937](https://github.com/user-attachments/assets/7d6aab0d-1d7d-4f34-8b22-8f3f554c9629)
-![Screenshot 2025-04-21 232858](https://github.com/user-attachments/assets/bca043da-0008-471f-9768-9d50414e4564)
-![Screenshot 2025-04-21 232958](https://github.com/user-attachments/assets/89357b14-5a31-481f-9207-9ff)
-![Screenshot 2025-04-21 233012](https://github.com/user-attachments/assets/7a96975a-301b-462e-b590-509e086948fb)
-6fcea4c2d)
+
